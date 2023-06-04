@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MITS081
 
 ## 2023.03.26
@@ -12,3 +13,7 @@ cat -n copy.c  ## cat -n file1 显示内容并在内容前显示行号
 
 ## 2023.03.27
 LAB1 done
+=======
+# Leetcode
+code practice
+>>>>>>> 8bdddd04a79c39f07e13b2e3501884ec7ed08098
